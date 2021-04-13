@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>281173501922-4upmg1osl7hqh87jbokgdk454cnsl2kh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.281173501922-4upmg1osl7hqh87jbokgdk454cnsl2kh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYqVwV7tkm3pbWMxsjtQ_pNsVTqYhHkX8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>281173501922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hiepnx.timer</string>
+	<key>PROJECT_ID</key>
+	<string>hiepnx-27</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hiepnx-27.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:281173501922:ios:cf763b309a9cece988fbbb</string>
+	<key>DATABASE_URL</key>
+	<string>https://hiepnx-27.firebaseio.com</string>
+</dict>
+</plist>
